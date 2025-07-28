@@ -23,6 +23,3 @@ This project implements a multilingual and layout-aware PDF processor that extra
 | `Docker`    | Containerized CPU-based runtime |
 
 ---
-
-## 📁 Folder Structure
-
