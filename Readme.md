@@ -140,8 +140,6 @@ Adobe/
 ├── process_pdfs.py
 └── requirements.txt
 ```
-```
-
 -----
 
 ## 🤝 Contributing
@@ -167,5 +165,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 Yatharth - [@yatharth7115](https://www.google.com/search?q=https://github.com/yatharth7115) - yatharthbank7@gmail.com
 
 Project Link: [https://github.com/yatharth7115/Adobe](https://github.com/yatharth7115/Adobe)
+
 
 
