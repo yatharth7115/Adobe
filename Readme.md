@@ -129,16 +129,17 @@ The tool generates a JSON file with the following structure, as specified by the
 
 ```
 Adobe/
-├── sample_documents/      # Directory for input PDFs
+├── InputFiles/
 │   └── report.pdf
-├── results/               # Directory for JSON outputs
+├── OutputFiles/
 │   └── report.json
-├── src/                   # Source code for the processor
-│   ├── __init__.py
-│   └── extractor.py
-├── process_pdf.py         # Main executable script
-├── requirements.txt       # Project dependencies
-└── README.md              # This file
+├── Schema/
+│   └── outputschema.json
+├── Dockerfile
+├── Readme.md
+├── process_pdfs.py
+└── requirements.txt
+```
 ```
 
 -----
@@ -166,4 +167,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 Yatharth - [@yatharth7115](https://www.google.com/search?q=https://github.com/yatharth7115) - yatharthbank7@gmail.com
 
 Project Link: [https://github.com/yatharth7115/Adobe](https://github.com/yatharth7115/Adobe)
+
 
